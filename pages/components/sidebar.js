@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <a
-        href="https://twitter.com/heybuddyradio"
+        href="https://twitter.com/yourtwitterhandle"
         className="absolute top-4 right-4 text-blue-500"
         target="_blank"
         rel="noopener noreferrer"
@@ -19,11 +19,11 @@ export default function Home() {
         <FaTwitter size={30} />
       </a>
 
-      <div className="flex items-center justify-center w-full h-full">
+      <div className="flex items-center justify-center">
         <img
           src="/heybuddy.png"
           alt="Hey Buddy Logo"
-          className="max-w-full h-auto border-none"
+          className="max-w-full h-auto border-4 border-blue-500"
         />
       </div>
     </div>

@@ -23,7 +23,7 @@ export default function Home() {
         <img
           src="/heybuddy.png"
           alt="Hey Buddy Logo"
-          className="max-w-full h-auto border-4 border-blue-500"
+          className="max-w-full h-auto border-4 border-customBlue"
         />
       </div>
     </div>

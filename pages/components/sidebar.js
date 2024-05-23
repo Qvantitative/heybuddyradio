@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className="relative flex items-center justify-center min-h-screen bg-white">
       <Head>
-        <title>My Next.js Site</title>
+        <title>Hey Buddy Radio</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <a
-        href="https://twitter.com/yourtwitterhandle"
+        href="https://twitter.com/heybuddyradio"
         className="absolute top-4 right-4 text-blue-500"
         target="_blank"
         rel="noopener noreferrer"

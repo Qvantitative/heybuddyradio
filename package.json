@@ -1,0 +1,30 @@
+{
+  "name": "mm",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.1",
+    "@micro-stacks/react": "^1.0.9",
+    "body-parser": "^1.20.2",
+    "chart.js": "^4.4.3",
+    "chartjs-chart-treemap": "^2.3.1",
+    "cors": "^2.8.5",
+    "next": "13.5.6",
+    "next-themes": "^0.3.0",
+    "openai": "^4.47.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1"
+  }
+}

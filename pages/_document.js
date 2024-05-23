@@ -7,7 +7,7 @@ class MyDocument extends Document {
       <Html>
         <Head>
           {/* Include the favicon from the app directory */}
-          <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+          <link rel="icon" href="/heybuddy.png.ico" type="image/x-icon" />
           {/* Add other meta tags or stylesheets here */}
         </Head>
         <body>

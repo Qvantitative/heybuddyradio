@@ -7,7 +7,7 @@ export default function Home() {
     <div className="relative flex items-center justify-center min-h-screen bg-white">
       <Head>
         <title>Hey Buddy Radio</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/heybuddy.png" />
       </Head>
 
       <a
